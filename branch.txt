@@ -1,0 +1,11 @@
+- Branch: São ramificações que permite varias pessoas trabalhar no mesmo projetos sem interferir o trabalho de outro desenvolvedores.
+COMANDOS:
+
+- git branch: mostra branchs existentes
+- git checkout : vai para a branch desejada
+- git branch nome : cria uma nova branch
+- git checkout -b nome : Cria uma nova branch e entra em modo de trabalho
+
+
+- git merge nome : faz a junção das atualizaçoes feitas nas branchs
+
