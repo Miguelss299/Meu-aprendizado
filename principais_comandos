@@ -16,3 +16,9 @@
 - history : mostra historico de comandos utilizados
 - history | grep : filtra comando desejado
 
+- git status: mostra arquivos em staged
+- git add nome ou . : adiciona arq em staged
+- git commit -m '' : realiza um commit
+
+- git push origin master : atualiza repositorio remoto
+- git pull origin master : atualiza repositorio atual
