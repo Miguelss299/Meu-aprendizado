@@ -1,0 +1,18 @@
+- pwd : Mostra diretorio atual
+- ls : Mostra conteudo do diretorio
+- mkdir : Cria nova pasta
+- touch : Cria novo arquivo
+- cd : Entra na pasta/ diretorio desejado
+- cd.. : Volta para pasta/diretorio anterior
+- mv : Move pasta/arquivo
+- cat : Mostra conteudo do arquivo/pasta
+- echo '' : Mostra uma mensagem na tela
+- echo '' >> arq : Injeta conteudo no arq desejado
+- less : mostra conteudo de um arquivo (Q para sair)
+- cp : Copia conteudo
+- mv : Move conteudo para outro arq
+- rm -rf : Remove um arquivo
+- clear : limpa conteudo do terminal
+- history : mostra historico de comandos utilizados
+- history | grep : filtra comando desejado
+
