@@ -1,0 +1,2 @@
+- GIT : É uma ferramenta de versionamento de projetos. Nos da a possibilidade de desenvolver funcionalidades de um projeto, junto com o seu time de desenvolvedores !
+- GITHUB : Plataforma online onde você pode subir projetos em forma de repositorios e compartilha-los com o mundo.
